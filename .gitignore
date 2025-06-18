@@ -11,6 +11,9 @@ __pycache__/
 *.user
 *.suo
 
+# Ignore env files
+ai-services/.env
+
 # Build artifacts
 bin/
 obj/
