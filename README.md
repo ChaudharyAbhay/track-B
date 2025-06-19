@@ -36,25 +36,25 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 
 
 # ✨ Features
-** 💬 AI Debate Simulation**
+💬**AI Debate Simulation**
 - Generate full speeches for any BP role
 - Structured arguments, intros, rebuttals, conclusions
 
-** 🏹 Live POI Injection **
+🏹 **Live POI Injection**
 - AI listens to your speech and throws smart interruptions
 
-** 📊 AI Adjudication Engine **
+📊 **AI Adjudication Engine**
 - Scores user speech based on style, structure, substance
 - Gives 3 personalized feedback tips
 
-** 🧠 Case Prep Mode **
+🧠 **Case Prep Mode**
 - Motion-specific strategy, argument mapping, rebuttal planning
 
-** 🧪 Caching Engine **
+🧪 **Caching Engine**
 - Structured key-based cache system (avoids duplicate GPT calls)
 - /cache_stats route shows real-time cache info
 
-** 🧩 Modular + Scalable **
+🧩 **Modular + Scalable**
 -Microservice-style backend (each feature is its own file)
 -Frontend and backend can scale independently
 
