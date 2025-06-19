@@ -16,10 +16,10 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 ---
 
 Build Using:
--Next.js (add exlanation here)
--Python (add explanation here)
--.Net (add explanation here)
-NPN for short... :)
+- Next.js (add exlanation here)
+- Python (add explanation here)
+- .Net (add explanation here)
+> NPN for short... :)
 
 
 
