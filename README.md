@@ -1,5 +1,4 @@
-# Peith – AI Debate Simulation 
-
+# Peith – Train with the Mind of a Million Debaters.
 > 
 > Built with NPN, designed for Track B of the **IDL Hackathon '25 – IIT Delhi** 🏛️
 
@@ -21,3 +20,37 @@ Build Using:
 -Python (add explanation here)
 -.Net (add explanation here)
 NPN for short... :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##🛡️ License
+Licensed under the MIT License.
+
+## 🤝 Team & Contact
+
+| 🧑‍💻 Member | 📫 Contact | 🔗 Social |
+|------------|------------|----------|
+| **Abhay Singh** | `abhay.dev@domain.com` | [GitHub](https://github.com/ChaudharyAbhay) •  |
+| **Shivam Gayan** | `krish.coder@domain.com` | [GitHub](https://github.com/Shivam-Gayan) • |
+
+> For queries, collaborations, or hiring us to coach GPT to out-debate you — reach out 😎
