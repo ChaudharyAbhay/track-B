@@ -43,7 +43,7 @@ NPN for short... :)
 
 
 
-##🛡️ License
+## 🛡️ License
 Licensed under the MIT License.
 
 ## 🤝 Team & Contact
