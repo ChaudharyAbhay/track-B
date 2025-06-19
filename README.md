@@ -55,8 +55,8 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 - /cache_stats route shows real-time cache info
 
 🧩 **Modular + Scalable**
--Microservice-style backend (each feature is its own file)
--Frontend and backend can scale independently
+- Microservice-style backend (each feature is its own file)
+- Frontend and backend can scale independently
 
 
 
