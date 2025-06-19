@@ -17,7 +17,7 @@ async def generate_case_prep(data: PrepInput):
     Side: {data.side}
 
     Provide:
-    - A brief case stance (1–2 lines)
+    - A brief case stance (1-2 lines)
     - 2-3 structured arguments (with examples)
     - Potential rebuttals you may face
     - Strategic advice on framing or stakeholder focus
