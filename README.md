@@ -37,9 +37,8 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 
 # ✨ Features
 💬 AI Debate Simulation
-Generate full speeches for any BP role
-
-Structured arguments, intros, rebuttals, conclusions
+- Generate full speeches for any BP role
+- Structured arguments, intros, rebuttals, conclusions
 
 🏹 Live POI Injection
 - AI listens to your speech and throws smart interruptions
