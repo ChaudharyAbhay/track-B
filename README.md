@@ -40,7 +40,7 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 
 
 
-
+##HERE WILL BE THE EXPLANATION AND OTHER STUFF
 
 
 
