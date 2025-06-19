@@ -1,7 +1,7 @@
 # Peith – AI Debate Simulation 
 
-> The powerhouse Python backend that fuels an AI-driven debating experience.  
-> Built with FastAPI + OpenAI, designed for Track B of the **IDL Hackathon '25 – IIT Delhi** 🏛️
+> 
+> Built with NPN, designed for Track B of the **IDL Hackathon '25 – IIT Delhi** 🏛️
 
 ---
 
@@ -14,7 +14,10 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 - Prep a case instantly with AI suggestions
 - Enjoy real-time responses, caching, and clean UX via frontend (Next.js)
 
-All of this is served by this 🔥 backend built on FastAPI.
-
 ---
 
+Build Using:
+-Next.js (add exlanation here)
+-Python (add explanation here)
+-.Net (add explanation here)
+NPN for short... :)
