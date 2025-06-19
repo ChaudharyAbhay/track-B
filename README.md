@@ -50,7 +50,7 @@ Licensed under the MIT License.
 
 | 🧑‍💻 Member | 📫 Contact | 🔗 Social |
 |------------|------------|----------|
-| **Abhay Singh** | `abhay.dev@domain.com` | [GitHub](https://github.com/ChaudharyAbhay) •  |
-| **Shivam Gayan** | `krish.coder@domain.com` | [GitHub](https://github.com/Shivam-Gayan) • |
+| **Abhay Singh** | `imabhay.s@proton.me` | [GitHub](https://github.com/ChaudharyAbhay) •  |
+| **Shivam Gayan** | `ADD GMAIL` | [GitHub](https://github.com/Shivam-Gayan) • |
 
 > For queries, collaborations, or hiring us to coach GPT to out-debate you — reach out 😎
