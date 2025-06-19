@@ -17,7 +17,7 @@ DebateGPT is an **AI-powered simulated debate platform** that lets users:
 
 **Build Using**:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=4px width=4px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=40px width=40px/>
           
 - Next.js (add exlanation here)
 - Python (add explanation here)
