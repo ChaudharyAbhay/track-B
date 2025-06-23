@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@700&family=Merriweather:wght@700&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -23,4 +24,48 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+.font-merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+.animated-gradient {
+  background: linear-gradient(270deg, #60a5fa, #818cf8, #a5b4fc, #c4b5fd, #60a5fa);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientMove 4s ease-in-out infinite;
+}
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1.5s ease-in 0.5s forwards;
+}
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+@keyframes border-glow {
+  0%, 100% { filter: drop-shadow(0 0 24px #a78bfa) drop-shadow(0 0 12px #818cf8); }
+  50% { filter: drop-shadow(0 0 48px #f472b6) drop-shadow(0 0 24px #a5b4fc); }
+}
+.animate-border-glow {
+  animation: border-glow 3s ease-in-out infinite;
+}
+@keyframes pulse-slow {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.5; }
+}
+.animate-pulse-slow {
+  animation: pulse-slow 6s ease-in-out infinite;
 }
