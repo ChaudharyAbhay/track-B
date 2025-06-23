@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using server.Models.Dtos;
 using server.Services;
@@ -17,6 +18,7 @@ namespace server.Controllers
             _jwtService = jwtService;
         }
 
+        [AllowAnonymous]
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserDto user)
         {
@@ -36,6 +38,7 @@ namespace server.Controllers
             return Ok(new { message = "Registered successfully." });
         }
 
+        [AllowAnonymous]
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] UserDto user)
         {

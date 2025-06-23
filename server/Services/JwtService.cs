@@ -12,7 +12,7 @@ namespace server.Services
 
         public JwtService(IConfiguration config)
         {
-            _jwtSettings = config.GetSection("JwtConfig").Get<JwtSettings>();
+            _jwtSettings = config.GetSection("JwtSettings").Get<JwtSettings>();
         }
 
         public string GenerateToken(string username)
