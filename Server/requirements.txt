@@ -7,3 +7,4 @@ passlib[bcrypt]
 python-jose
 httpx
 alembic
+pydantic_settings
