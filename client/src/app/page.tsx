@@ -21,7 +21,7 @@ export default function Home() {
         return value.trim().length >= 10 ? "" : "Message must be at least 10 characters.";
       default:
         return "";
-    }
+    } 
   }
 
   function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) {
