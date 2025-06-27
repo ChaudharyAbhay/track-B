@@ -99,6 +99,7 @@ export default function Home() {
             <button
               className="px-8 py-3 rounded-full font-playfair text-lg font-bold bg-black text-white shadow-xl ring-2 ring-black hover:ring-4 hover:scale-105 hover:shadow-[0_4px_16px_0_rgba(0,0,0,0.37)] border border-white/20 backdrop-blur-xl transition-all duration-300 ease-in-out cursor-pointer relative"
               style={{ letterSpacing: "0.04em" }}
+              onClick={() => window.location.href = './register'}
             >
               <span className="relative z-10 uppercase tracking-widest font-extrabold drop-shadow-lg text-xl md:text-2xl">
                 Register Now
