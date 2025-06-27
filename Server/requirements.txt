@@ -8,4 +8,3 @@ python-jose
 httpx
 alembic
 pydantic_settings
-openai
