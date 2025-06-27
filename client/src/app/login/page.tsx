@@ -6,7 +6,7 @@ export default function Login() {
   const [form, setForm] = useState({ email: "", password: "" });
   const [errors, setErrors] = useState({ email: "", password: "" });
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
-
+// this function validate field input, not database values.
   function validateField(name: string, value: string) {
     switch (name) {
       case "email":
@@ -39,7 +39,7 @@ export default function Login() {
       setForm({ email: "", password: "" });
     }, 1500);
   }
-
+//main form
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 via-violet-900 to-purple-900 dark:from-[#18122B] dark:via-[#44318D] dark:to-[#6D28D9] relative overflow-hidden">
       {/* Abstract background shape */}
