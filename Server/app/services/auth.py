@@ -23,6 +23,6 @@ def decode_access_token(token: str):
 
 def authenticate_user(username: str, password: str, db: Session):
     user: User = db.query(User).filter(User.username == username).first()
-    if not user or not verify_password(password, user.hashed_password):
+    if not user or not verify_password(password, str(user.hashed_password)):
         return None
     return user
